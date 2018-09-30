@@ -13,7 +13,7 @@ ERPNext Healthcare helps you manage your clinic or practice efficiently by sched
 
 ### Contributors of ERPNext Healthcare module
 
-The healthcare domain of ERPNext is a first domain to be competely contributed by a ERPNext community member, Earthians. Listen to Anoop, founder of Earthian on what motivated him to venture into Healthcare domain and how it benefit all the stack-holders of the community.
+The healthcare domain of ERPNext is a first domain to be completely contributed by a ERPNext community member, Earthians. Listen to Anoop, founder of Earthian on what motivated him to venture into Healthcare domain and how it benefit all the stack-holders of the community.
 
 <div>
     <div class='embed-container'>
