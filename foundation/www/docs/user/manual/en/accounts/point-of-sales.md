@@ -70,7 +70,7 @@ ready to make the Payment. Payment process is divided into 3 steps -
 
 <img class="screenshot" alt="POS Payment" src="{{docs_base_url}}/assets/img/accounts/pos-payment.png">
 
-Submit the document to finalise the record. After the document is submitted,
+Submit the document to finalize the record. After the document is submitted,
 you can either print or email it directly to the customer.
 
 ### Write off Amount
@@ -88,7 +88,7 @@ POS calculate the extra amount paid by the customer, which user can return from 
 <img class="screenshot" alt="POS Payment" src="{{docs_base_url}}/assets/img/accounts/change-amount.png">
 
 ### Offline Records
-All the records from the POS stores into the browser's local storegae and sync submitted records after every minute of the interval if system is connected to internet. User can view the offline records by clicking on Menu > View Offline Records
+All the records from the POS stores into the browser's local storege and sync submitted records after every minute of the interval if system is connected to internet. User can view the offline records by clicking on Menu > View Offline Records
 
 <img class="screenshot" alt="POS Payment" src="{{docs_base_url}}/assets/img/accounts/offline-records.png">
 
